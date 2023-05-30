@@ -1,0 +1,3 @@
+testgame/
+testgame.sln
+x.txt
